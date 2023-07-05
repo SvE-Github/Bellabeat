@@ -17,6 +17,11 @@ The following skills will be used:
 - Understanding notebooks and explanations of other data analysts in order to improve own work
 - Showcasing results with visualizations
 
+Two files are attached:
+
+- Notebook (.ipynb)
+- Code (.r)
+
 Enjoy reading and kind regards,
 
 ~ Stefan van Ettinger
